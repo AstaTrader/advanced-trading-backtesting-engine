@@ -54,3 +54,24 @@ This project implements an advanced EMA (9/20) pullback strategy with:
 ---
 
 ## 📂 Project Structure
+.
+├── strategy.py # Strategy definitions
+├── backtest_engine.py # Core simulation engine
+├── data.py # Data preprocessing
+├── visualization.py # Charts & reports
+├── main.py # Execution entry point
+├── *.csv # Trade logs
+├── *.png # Output charts
+
+## Future Enhancements
+Parameter optimization (Grid Search / Bayesian Optimization)
+Walk-forward analysis
+Transaction cost & slippage modeling
+Machine learning-based signal generation
+Live trading integration (API-based execution)
+
+## Author
+
+Akshay Jadav
+B.Tech CSE (NIT Puducherry) | CGPA: 8.5
+Quantitative Trading Enthusiast | AI/ML
