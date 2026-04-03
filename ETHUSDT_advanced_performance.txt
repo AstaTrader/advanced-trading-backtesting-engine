@@ -1,0 +1,18 @@
+Advanced EMA Strategy Performance Report - ETHUSDT
+============================================================
+
+STRATEGY CONFIGURATION:
+• EMA Fast: 9
+• EMA Slow: 20
+• ADX Threshold: 25.0
+• Wick Ratio: 0.5
+• Risk/Reward: 2.5:1
+
+PERFORMANCE METRICS:
+• Total Trades: 117
+• Win Rate: 60.7%
+• Net Profit: $65,698.81
+• Profit Factor: 3.51
+• Max Drawdown: -6.43%
+• Sharpe Ratio: 1.42
+• Average R: 1.08R

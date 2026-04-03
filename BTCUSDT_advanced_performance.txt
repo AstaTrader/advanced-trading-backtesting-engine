@@ -1,0 +1,18 @@
+Advanced EMA Strategy Performance Report - BTCUSDT
+============================================================
+
+STRATEGY CONFIGURATION:
+• EMA Fast: 9
+• EMA Slow: 20
+• ADX Threshold: 25.0
+• Wick Ratio: 0.5
+• Risk/Reward: 2.5:1
+
+PERFORMANCE METRICS:
+• Total Trades: 94
+• Win Rate: 62.8%
+• Net Profit: $61,633.64
+• Profit Factor: 3.63
+• Max Drawdown: -16.29%
+• Sharpe Ratio: 3.09
+• Average R: 1.15R

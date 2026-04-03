@@ -1,0 +1,18 @@
+Advanced EMA Strategy Performance Report - SOLUSDT
+============================================================
+
+STRATEGY CONFIGURATION:
+• EMA Fast: 9
+• EMA Slow: 20
+• ADX Threshold: 25.0
+• Wick Ratio: 0.5
+• Risk/Reward: 2.5:1
+
+PERFORMANCE METRICS:
+• Total Trades: 121
+• Win Rate: 62.0%
+• Net Profit: $67,833.60
+• Profit Factor: 3.59
+• Max Drawdown: -0.03%
+• Sharpe Ratio: 1.55
+• Average R: 1.12R

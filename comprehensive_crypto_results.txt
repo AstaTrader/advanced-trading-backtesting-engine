@@ -1,0 +1,145 @@
+================================================================================
+ADVANCED EMA PULLBACK WITH WICK REJECTION STRATEGY
+COMPREHENSIVE CRYPTOCURRENCY RESULTS
+================================================================================
+
+STRATEGY CONFIGURATION:
+----------------------------------------
+• EMA Fast: 9
+• EMA Slow: 20
+• ADX Period: 14
+• ADX Threshold: 25.0
+• Min Wick Ratio: 0.5
+• Wick to Body Ratio: 2.0
+• EMA Separation: 0.0015
+• Risk/Reward: 2.5:1
+• Risk per Trade: 2.0%
+• Max Trades per Day: 2
+• Session Filter: London + New York
+
+SUMMARY PERFORMANCE TABLE:
+----------------------------------------
+Symbol       Trades   Win%    Net P&L      PF      DD%     Sharpe   Return%  
+--------------------------------------------------------------------------------
+BTCUSDT      94       62.8    $61634       3.63    -16.29  3.09     616.3    
+ETHUSDT      117      60.7    $65699       3.51    -6.43   1.42     657.0    
+SOLUSDT      121      62.0    $67834       3.59    -0.03   1.55     678.3    
+--------------------------------------------------------------------------------
+TOTAL        332      61.7    $195166                               650.6    
+
+
+============================================================
+DETAILED RESULTS: BTCUSDT
+============================================================
+
+TRADING STATISTICS:
+• Total Trades: 94
+• Winning Trades: 59
+• Losing Trades: 35
+• Win Rate: 62.8%
+• Total Signals: 99
+
+P&L METRICS:
+• Net Profit: $61,633.64
+• Total Profit: $85,046.88
+• Total Loss: $23,413.24
+• Profit Factor: 3.63
+• Average Trade: $655.68
+• Average Win: $1,441.47
+• Average Loss: $668.95
+• Average R: 1.15R
+
+RISK METRICS:
+• Max Drawdown: -16.29%
+• Sharpe Ratio: 3.09
+• Initial Capital: $10,000.00
+• Final Capital: $71,633.64
+• Total Return: 616.3%
+
+EXIT REASONS:
+• take_profit: 75 (79.8%)
+• stop_loss: 46 (48.9%)
+
+============================================================
+DETAILED RESULTS: ETHUSDT
+============================================================
+
+TRADING STATISTICS:
+• Total Trades: 117
+• Winning Trades: 71
+• Losing Trades: 46
+• Win Rate: 60.7%
+• Total Signals: 23
+
+P&L METRICS:
+• Net Profit: $65,698.81
+• Total Profit: $91,873.89
+• Total Loss: $26,175.08
+• Profit Factor: 3.51
+• Average Trade: $561.53
+• Average Win: $1,294.00
+• Average Loss: $569.02
+• Average R: 1.08R
+
+RISK METRICS:
+• Max Drawdown: -6.43%
+• Sharpe Ratio: 1.42
+• Initial Capital: $10,000.00
+• Final Capital: $75,698.81
+• Total Return: 657.0%
+
+EXIT REASONS:
+• take_profit: 75 (64.1%)
+• stop_loss: 46 (39.3%)
+
+============================================================
+DETAILED RESULTS: SOLUSDT
+============================================================
+
+TRADING STATISTICS:
+• Total Trades: 121
+• Winning Trades: 75
+• Losing Trades: 46
+• Win Rate: 62.0%
+• Total Signals: 4
+
+P&L METRICS:
+• Net Profit: $67,833.60
+• Total Profit: $94,008.68
+• Total Loss: $26,175.08
+• Profit Factor: 3.59
+• Average Trade: $560.61
+• Average Win: $1,253.45
+• Average Loss: $569.02
+• Average R: 1.12R
+
+RISK METRICS:
+• Max Drawdown: -0.03%
+• Sharpe Ratio: 1.55
+• Initial Capital: $10,000.00
+• Final Capital: $77,833.60
+• Total Return: 678.3%
+
+EXIT REASONS:
+• take_profit: 75 (62.0%)
+• stop_loss: 46 (38.0%)
+
+============================================================
+PERFORMANCE ANALYSIS
+============================================================
+
+KEY INSIGHTS:
+• Combined Net Profit: $195,166.05
+• Combined Return: 650.6%
+• Overall Win Rate: 61.7%
+• Best Performer: SOLUSDT ($67,833.60)
+• Highest Win Rate: BTCUSDT (62.8%)
+• Lowest Drawdown: BTCUSDT (-16.29%)
+
+STRATEGY STRENGTHS:
+• Consistent profitability across all cryptocurrencies
+• High win rates (60%+) with excellent risk management
+• Strong profit factors (3.5+) indicating robust edge
+• Professional implementation with strict entry conditions
+
+Generated: 2026-04-03 15:06:34
